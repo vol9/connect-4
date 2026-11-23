@@ -1,0 +1,25 @@
+{
+  "name": "connect-4",
+  "version": "1.0.0",
+  "description": "Users can play live against other users or against a bot with multiple difficulty levels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vol9/connect-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vol9/connect-4/issues"
+  },
+  "homepage": "https://github.com/vol9/connect-4#readme",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
