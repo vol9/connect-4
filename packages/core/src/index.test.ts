@@ -1,6 +1,6 @@
 import { it, expect } from "vitest";
 import { COLS } from "./index.js";
 
-it("checks COLS length", () => {
+it("has 7 columns", () => {
   expect(COLS).toBe(7);
 });
